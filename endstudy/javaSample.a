@@ -1,0 +1,6 @@
+class Stringdemo{
+	public static void main(String args){
+		String s="sggs";
+		System.out.println(s);
+	}
+}
